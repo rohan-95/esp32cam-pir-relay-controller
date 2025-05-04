@@ -98,7 +98,7 @@ Special thanks to **Mr. Rupesh Patel**, **Dr. Sushree Diptimayee Swain**, and al
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **GPL License**.  
 Feel free to use, modify, and share with attribution.
 
 ---
